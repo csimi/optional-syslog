@@ -32,6 +32,7 @@
   "keywords": [
     "syslog",
     "optional",
-    "windows"
+    "windows",
+    "posix"
   ]
 }
