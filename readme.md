@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/optional-syslog.svg?logo=npm)](https://www.npmjs.com/package/optional-syslog)
+[![build status](https://github.com/csimi/optional-syslog/workflows/build/badge.svg)](https://github.com/csimi/optional-syslog/actions)
 
 # About
 
